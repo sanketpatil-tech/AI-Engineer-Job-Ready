@@ -1,0 +1,12 @@
+INTRODUCTION TO PYTHON – INTERVIEW QUESTIONS
+
+1. What is a programming language? Why do we need it to communicate with a computer?
+2. What is Python? Why is it called a general-purpose and versatile programming language?
+3. Who created Python, and where did the name "Python" come from?
+4. What is the Python Software Foundation (PSF), and what are its main responsibilities?
+5. What does it mean that Python is an open-source language? What are the benefits of this for developers?
+6. Name any five areas where Python is used, along with one popular library or framework for each area.
+7. What are the main features of Python? Explain any four of them in detail.
+8. What is the difference between a statically typed language and a dynamically typed language? Which one is Python?
+9. What is the difference between compilation and interpretation? Why is Python said to be both compiled and interpreted?
+10. Explain step by step what happens when you run a Python file like main.py. What are bytecode (.pyc), the __pycache__ folder and the PVM (Python Virtual Machine)?
